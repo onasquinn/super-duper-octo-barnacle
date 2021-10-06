@@ -626,6 +626,14 @@
     "allyCode": "136281172",
     "userIcon": "",
     "tagIdOnDrop": "",
+    "tagIdOnClimb": ""  
+  },  
+  {
+    "name": "gabinho",
+    "comment": "",
+    "allyCode": "752665996",
+    "userIcon": "",
+    "tagIdOnDrop": "",
     "tagIdOnClimb": ""
-  }     
+  }       
 ]
