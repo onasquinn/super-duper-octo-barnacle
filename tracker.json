@@ -27,7 +27,7 @@
     "name": "skitch mcgoo",
     "comment": "",
     "allyCode": "252661247",
-    "userIcon": ":eyes:",
+    "userIcon": ":round_pushpin:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },
@@ -35,7 +35,7 @@
     "name": "krayt",
     "comment": "",
     "allyCode": "139128655",
-    "userIcon": ":eyes:",
+    "userIcon": ":round_pushpin:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },
@@ -43,7 +43,7 @@
     "name": "link",
     "comment": "",
     "allyCode": "685469837",
-    "userIcon": ":eyes:",
+    "userIcon": ":round_pushpin:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },
@@ -51,7 +51,7 @@
     "name": "thejr",
     "comment": "",
     "allyCode": "854324218",
-    "userIcon": ":eyes:",
+    "userIcon": ":round_pushpin:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },
@@ -59,6 +59,14 @@
     "name": "afc",
     "comment": "",
     "allyCode": "988727381",
+    "userIcon": "",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "asus",
+    "comment": "",
+    "allyCode": "863394177",
     "userIcon": "",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
@@ -317,14 +325,6 @@
     "tagIdOnClimb": ""
   },
   {
-    "name": "trippa",
-    "comment": "",
-    "allyCode": "863394177",
-    "userIcon": "",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": ""
-  },
-  {
     "name": "vertrange ",
     "comment": "",
     "allyCode": "948753291",
@@ -380,7 +380,14 @@
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },
-  
+  {
+    "name": "101",
+    "comment": "",
+    "allyCode": "998958451",
+    "userIcon": "",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""  
+  },    
   {
     "name": "5th i dredd",
     "comment": "",
@@ -396,16 +403,6 @@
     "userIcon": "",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
-  },  
- 
-
-  {
-    "name": "101",
-    "comment": "",
-    "allyCode": "998958451",
-    "userIcon": "",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": ""  
   },  
   {
     "name": "Carvallo Christian",
@@ -579,7 +576,7 @@
     "name": "potato",
     "comment": "",
     "allyCode": "736277461",
-    "userIcon": ":round_pushpin:",
+    "userIcon": "",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },
