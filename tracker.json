@@ -27,7 +27,15 @@
     "name": "skitch mcgoo",
     "comment": "",
     "allyCode": "252661247",
-    "userIcon": ":round_pushpin:",
+    "userIcon": ":large_blue_diamond:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "thejr",
+    "comment": "",
+    "allyCode": "854324218",
+    "userIcon": ":large_blue_diamond:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },
@@ -43,14 +51,6 @@
     "name": "link",
     "comment": "",
     "allyCode": "685469837",
-    "userIcon": ":round_pushpin:",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": ""
-  },
-  {
-    "name": "thejr",
-    "comment": "",
-    "allyCode": "854324218",
     "userIcon": ":round_pushpin:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
