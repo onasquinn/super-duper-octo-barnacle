@@ -56,6 +56,14 @@
     "tagIdOnClimb": ""
   },
   {
+    "name": "onyx",
+    "comment": "",
+    "allyCode": "321666671",
+    "userIcon": ":round_pushpin:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },   
+  {
     "name": "afc",
     "comment": "",
     "allyCode": "988727381",
@@ -525,6 +533,14 @@
     "tagIdOnClimb": ""
   },  
   {
+    "name": "georgios",
+    "comment": "",
+    "allyCode": "133669412",
+    "userIcon": "",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },  
+  {
     "name": "jade bele",
     "comment": "",
     "allyCode": "412337261",
@@ -572,14 +588,6 @@
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },
-  {
-    "name": "onyx",
-    "comment": "",
-    "allyCode": "321666671",
-    "userIcon": "",
-    "tagIdOnDrop": "",
-    "tagIdOnClimb": ""
-  },  
   {
     "name": "potato",
     "comment": "",
