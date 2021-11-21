@@ -619,6 +619,14 @@
     "userIcon": "",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
+  },
+  {
+    "name": "solace",
+    "comment": "",
+    "allyCode": "196547639",
+    "userIcon": ":poop:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
   },  
   {
     "name": "sunburn2512",
@@ -632,7 +640,7 @@
     "name": "super25",
     "comment": "",
     "allyCode": "729756863",
-    "userIcon": ":round_pushpin:",
+    "userIcon": ":poop:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },
