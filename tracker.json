@@ -40,6 +40,13 @@
     "tagIdOnClimb": ""
   },
   {
+    "name": "nemesis",
+    "comment": "",
+    "allyCode": "618992671",
+    "userIcon": ":large_blue_diamond:",
+    "tagIdOnDrop": "",
+  },
+  {
     "name": "krayt",
     "comment": "",
     "allyCode": "139128655",
@@ -214,13 +221,6 @@
     "userIcon": "",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
-  },
-  {
-    "name": "nemesis",
-    "comment": "",
-    "allyCode": "618992671",
-    "userIcon": "",
-    "tagIdOnDrop": "",
   },
   {
     "name": "papadew",
@@ -432,7 +432,7 @@
     "name": "dart ghoul",
     "comment": "",
     "allyCode": "278842525",
-    "userIcon": "",
+    "userIcon": ":poop:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""  
   },
@@ -544,7 +544,7 @@
     "name": "jade bele",
     "comment": "",
     "allyCode": "412337261",
-    "userIcon": "",
+    "userIcon": ":poop:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },  
@@ -592,7 +592,7 @@
     "name": "potato",
     "comment": "",
     "allyCode": "736277461",
-    "userIcon": "",
+    "userIcon": ":small_orange_diamond:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },
@@ -640,7 +640,7 @@
     "name": "super25",
     "comment": "",
     "allyCode": "729756863",
-    "userIcon": ":poop:",
+    "userIcon": ":small_orange_diamond:",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },
