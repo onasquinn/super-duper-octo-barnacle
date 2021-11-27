@@ -412,10 +412,18 @@
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },   
-    {
+  {
     "name": "black venom",
     "comment": "",
     "allyCode": "725315413",
+    "userIcon": "",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },
+  {
+    "name": "bravesfan774",
+    "comment": ":poop:",
+    "allyCode": "147757557",
     "userIcon": "",
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
@@ -581,6 +589,14 @@
     "tagIdOnClimb": ""
   },
   {
+    "name": "nikana",
+    "comment": "",
+    "allyCode": "916156331",
+    "userIcon": ":poop:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },  
+  {
     "name": "nikmed31",
     "comment": "",
     "allyCode": "817633974",
@@ -644,6 +660,14 @@
     "tagIdOnDrop": "",
     "tagIdOnClimb": ""
   },
+  {
+    "name": "telaven",
+    "comment": "",
+    "allyCode": "288991253",
+    "userIcon": ":poop:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": ""
+  },  
   {
     "name": "vidar401",
     "comment": "",
